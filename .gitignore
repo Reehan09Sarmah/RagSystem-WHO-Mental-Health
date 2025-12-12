@@ -1,0 +1,8 @@
+test/
+Database/
+.vscode/
+.ragsysenv/
+
+.env
+prompt.txt
+__pycache__/
